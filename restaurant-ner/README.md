@@ -1,12 +1,3 @@
----
-title: Restaurant Ner
-emoji: 🌍
-colorFrom: yellow
-colorTo: yellow
-sdk: streamlit
-sdk_version: 1.39.0
-app_file: app.py
-pinned: false
----
+Finetuned DistilBert using MIT Restaurant Dataset
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the at https://huggingface.co/spaces/JynPortfolio/restaurant-ner
